@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Web Application",
+  "description": "A complete, production-ready full-stack E-Commerce Web Application with Secure Authentication, Product Catalog, Shopping Cart, Checkout with Stripe payment, and Admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
